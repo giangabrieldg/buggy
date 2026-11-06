@@ -1,0 +1,1 @@
+"""Local document search and indexing components."""

@@ -1,0 +1,8 @@
+model = "qwen3:1.7b"
+app_data_dir = "%LOCALAPPDATA%/AssistantTestData"
+profile_root = "%TEST_PROFILE_ROOT%"
+global_shortcut = "Alt+Shift+P"
+
+[[allowed_apps]]
+name = "Editor"
+target = "editor.exe"

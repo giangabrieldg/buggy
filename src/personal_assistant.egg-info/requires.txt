@@ -1,0 +1,10 @@
+customtkinter
+ollama
+pypdf
+python-docx
+pystray
+Pillow
+
+[dev]
+pytest
+reportlab

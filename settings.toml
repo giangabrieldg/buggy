@@ -1,0 +1,16 @@
+model = "qwen3:1.7b"
+profile_root = "~"
+global_shortcut = "Ctrl+Alt+A"
+reduce_motion = false
+
+[[allowed_apps]]
+name = "Notepad"
+target = "notepad.exe"
+
+[[allowed_apps]]
+name = "Calculator"
+target = "calc.exe"
+
+[[allowed_apps]]
+name = "Word"
+target = "winword.exe"
